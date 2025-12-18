@@ -8,8 +8,18 @@
 
 ✨ Focada em aprimorar meus conhecimentos em diferentes linguagens e em compartilhar projetos com a comunidade.
 
+<br>
 
-<p>
+<p> 
+  <a href="https://instagram.com/ritielen_rodrigues1" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+  <a href="mailto:ritielen.r.silva@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/ritielen-rodrigues-silva-90a20127a" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a> 
     <a href="https://github.com/Ritielen?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
@@ -28,7 +38,7 @@
 
 ---
 
-### 💡 Linguagens e Tecnologias
+### 🤖 Linguagens e Tecnologias
 
 <div style="display: inline_block"><br>
 <img align="left" alt="HTML" title="HTML" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/>
@@ -37,22 +47,9 @@
 <img align="left" alt="React" title="React" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"/>
 <img align="left" alt="Git" title="Git" width="30px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
 </div>
-</br>
-
----
-
-<p> 
-  <a href="https://instagram.com/ritielen_rodrigues1" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
-  </a>
-  <a href="mailto:ritielen.r.silva@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://www.linkedin.com/in/ritielen-rodrigues-silva-90a20127a" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-</p>
 <br/>
+
+<br>
 
 ### 📊 Estatísticas  
 
